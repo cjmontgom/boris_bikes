@@ -26,6 +26,7 @@ describe DockingStation do
   end
 
 
+
 #   describe '#release_bike' do
 #   it 'releases a bike' do
 #     bike = Bike.new
